@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1025-divisor-game) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
