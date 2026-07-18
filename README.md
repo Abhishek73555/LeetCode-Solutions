@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
