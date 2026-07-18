@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
