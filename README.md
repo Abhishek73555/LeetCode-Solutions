@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek73555/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
